@@ -82,7 +82,7 @@ export const LYRICS: Lyric[] = [
   { time: 52.0, text: "HUMMING_START", view: "humming-party" },
    
   // --- CHECKLIST CUSTOM ---
-  { time: 66.0, text: "TINGKAH LUCU, cek", view: "checklist-custom-1" },
+  { time: 66.0, text: "TINGKAH LUUCU, cek", view: "checklist-custom-1" },
   { time: 68.0, text: "KUTU BUKU, cek", view: "checklist-custom-2" },
   { time: 69.5, text: "SAYANG ORTU, cek", view: "checklist-custom-3" },
   
